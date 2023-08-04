@@ -1,0 +1,10 @@
+name: dropout
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - meshio=5.3.4
+  - numpy=1.25.0
+  - fenics-dolfinx=0.6.0
+  - spyder=5.4.3
+
